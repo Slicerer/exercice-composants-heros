@@ -1,0 +1,32 @@
+
+.div__page-2{
+    height: 700px;
+    width: 100%;
+    background-color: blue;
+}
+
+.secBody{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    height: 450px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.div_customizedToPage2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: red;
+    height: 350px;
+    width: 700px;
+}
+
+
+
+
+
+
